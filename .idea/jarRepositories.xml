@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bintray-dv8fromtheworld-maven" />
+      <option name="name" value="bintray" />
+      <option name="url" value="https://dl.bintray.com/dv8fromtheworld/maven" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="jcenter-bintray" />
+      <option name="url" value="https://jcenter.bintray.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="letece" />
+      <option name="name" value="letece" />
+      <option name="url" value="http://lutece.paris.fr/nexus/content/repositories/lutece_third_party" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="DV8FromTheWorld" />
+      <option name="name" value="DV8FromTheWorld" />
+      <option name="url" value="https://github.com/DV8FromTheWorld/Maven-Repository/raw/master/repo" />
+    </remote-repository>
+  </component>
+</project>
